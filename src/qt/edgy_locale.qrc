@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/edgy_bg.qm</file>
+        <file alias="de">locale/edgy_de.qm</file>
+        <file alias="en">locale/edgy_en.qm</file>
+        <file alias="es">locale/edgy_es.qm</file>
+        <file alias="fi">locale/edgy_fi.qm</file>
+        <file alias="fr">locale/edgy_fr.qm</file>
+        <file alias="it">locale/edgy_it.qm</file>
+        <file alias="ja">locale/edgy_ja.qm</file>
+        <file alias="pl">locale/edgy_pl.qm</file>
+        <file alias="pt">locale/edgy_pt.qm</file>
+        <file alias="ru">locale/edgy_ru.qm</file>
+        <file alias="sk">locale/edgy_sk.qm</file>
+        <file alias="sv">locale/edgy_sv.qm</file>
+        <file alias="vi">locale/edgy_vi.qm</file>
+        <file alias="zh_CN">locale/edgy_zh_CN.qm</file>
+        <file alias="zh_TW">locale/edgy_zh_TW.qm</file>
+    </qresource>
+</RCC>
